@@ -116,6 +116,8 @@
 
 ### IID 
 
+#### training & testing process 
+
 ```python
 python -u app.py 
 ```
